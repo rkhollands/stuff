@@ -1,0 +1,10 @@
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\bin\Debug\GetInternetTime.exe.config
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\bin\Debug\GetInternetTime.exe
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\bin\Debug\GetInternetTime.pdb
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\bin\Debug\GetInternetTime.xml
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.Form1.resources
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.Resources.resources
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.vbproj.GenerateResource.cache
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.exe
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.xml
+C:\SharedDocs\Hollands and Associates POS\Synchronize Time\Get Internet Time\GetInternetTime\obj\Debug\GetInternetTime.pdb

@@ -1,0 +1,1 @@
+Adjust DST:TrueGMT Adjustment:-5Start Month:3Start Day:1Start Occurance:2End Month:11End Day:1End Occurance:1
